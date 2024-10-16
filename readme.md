@@ -1,4 +1,20 @@
-# Tabelha de horarios dos funcionarios
-#
-foi criado um programa com interface grafica usando PySimpleGUI e OpenPyxls, que seleciona a área de trabalho, digita o nome do funcionario a data que a planilha vai iniciar e o ano. Depois passa para a proxima aba e pergunta os horarios de entrada, saida almoço, retorno almoço e saida.
-cada dado é inserido em uma liha da planilha onde é mostrado o dia que esta sendo inserido os dados.
+#  Sistema de Cadastro de Ponto 
+
+Este projeto é um cadastro dos horarios do sistema ponto manual feito em Python com com PysimpleGUI e Openpyxls. Ele permite de uma planilha onde é pedido ao usuario os horarios de entrada, saida para almoço, retorno do almoço e horario de saida
+
+## Funcionalidades
+
+- **funcionario**: Insere o nome do funcionario na planilha.
+- **setor**: seleciona o setor de trabalho do funcionario.
+- **data de inicio**: coloca as data de inicio do ponto ate o outro mes.
+- **hora entrada**: adiciona a hora de entrada do funcionario.
+- **saida almoço**: adiciona a hora que o funcionario sai para o almoço.
+- **retorno almoço**: adiciona a hora que o funcionario volta almoço.
+- **saida **: adiciona o horario de saida do funcionario.
+
+## Tecnologias Utilizadas
+
+- **Python**: Linguagem de programação.
+- **PySimpleGUI**: Interface grafica.
+- **Openpyxls**: Linguagem de programação para planilhas excel.
+- **os**: Linguagem de programação para criação de pastas.
