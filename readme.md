@@ -18,4 +18,3 @@ Este projeto é um cadastro dos horarios do sistema ponto manual feito em Python
 - **PySimpleGUI**: Interface grafica.
 - **Openpyxls**: Linguagem de programação para planilhas excel.
 - **os**: Linguagem de programação para criação de pastas.
-- **os**: Projeto feito em html, css, javascriptProjeto feito em html, css, javascript.Site de vendas de café e utensilho com formularios de contato e criação de novos produtos.
